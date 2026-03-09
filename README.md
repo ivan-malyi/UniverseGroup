@@ -61,3 +61,7 @@ python main.py
 | `HDBSCAN` | Density-based clustering |
 | `GPT-4o-mini` | Niche naming and description |
 | `Plotly` | Interactive cluster visualization |
+
+
+<img width="1200" height="800" alt="newplot" src="https://github.com/user-attachments/assets/d1f76c86-e62d-4a52-8e77-fa61878fb79c" />
+
