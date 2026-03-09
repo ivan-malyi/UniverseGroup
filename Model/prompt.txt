@@ -1,0 +1,11 @@
+You are an expert in mobile app market analysis.
+
+Here is a list of mobile apps that are direct competitors in the same niche:
+{apps_text}
+
+Give me:
+1. A short niche name (2-4 words, e.g. "AI Tattoo Generator")
+2. A brief niche description (1-2 sentences)
+
+Respond in JSON format:
+{"name": "...", "description": "..."}
